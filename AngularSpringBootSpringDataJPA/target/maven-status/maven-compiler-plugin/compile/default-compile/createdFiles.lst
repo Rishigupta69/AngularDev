@@ -1,0 +1,9 @@
+com\dev\springboot\model\User.class
+com\dev\springboot\controller\AppController.class
+com\dev\springboot\repositories\UserRepository.class
+com\dev\springboot\controller\RestApiController.class
+com\dev\springboot\service\UserServiceImpl.class
+com\dev\springboot\configuration\JpaConfiguration.class
+com\dev\springboot\service\UserService.class
+com\dev\springboot\SpringBootCRUDApp.class
+com\dev\springboot\util\CustomErrorType.class
